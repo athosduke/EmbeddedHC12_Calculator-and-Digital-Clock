@@ -72,4 +72,4 @@ Calculator input and output on top 4 lines\
 Digital clock on fixed screen position (eg. below 4th line, center)\
 Store and recall current cursor position\
 Back-space (if you like)\
-There are many other features following the escape sequence\
+There are many other features following the escape sequence
